@@ -1,4 +1,4 @@
-👋 Hi, I’m @swirlycheese
+👋 Hi, I’m @yathukamal
 👀 I’m interested in bioinformatics, genomics, data science
 🌱 I’m currently learning SQL
 💞️ I’m looking to collaborate on any beginner projects
