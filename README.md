@@ -1,4 +1,4 @@
-👋 Hi, I’m @yathukamal. I’m interested in bioinformatics, genomics, data science
+👋 Hi, I’m @yathukamal. I’m interested in bioinformatics, genomics, AI, data science
 
 
 <!---
